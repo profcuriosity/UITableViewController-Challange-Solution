@@ -1,5 +1,5 @@
 //
-//  CCViewController.h
+//  TableViewControllerChallange.h
 //  UITableViewController Challange Solution
 //
 //  Created by profcuriosity on 4/15/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface CCViewController : UIViewController
+@interface TableViewControllerChallange : UITableViewController
 
 @end
